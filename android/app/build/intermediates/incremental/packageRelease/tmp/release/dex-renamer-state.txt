@@ -1,0 +1,4 @@
+#Mon Oct 05 21:01:37 BDT 2020
+base.0=C\:\\Users\\Quixlab\\Desktop\\native\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
